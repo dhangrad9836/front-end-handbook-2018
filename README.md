@@ -1,5 +1,10 @@
 # Front-End Developer Handbook 2018
-Written by Cody Lindley sponsored by — Frontend Masters
+
+### Written by [Cody Lindley](http://codylindley.com/)
+
+*Sponsored by [Frontend Masters](https://frontendmasters.com/), advancing your skills with in-depth, modern front-end engineering courses*
+
+![Front End Handbook 2018 Cover](https://frontendmasters.com/books/front-end-handbook/2018/cover.jpg)
 
 This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2018.
 
@@ -13,18 +18,34 @@ The intention is to release an update to the content yearly.
 
 The handbook is divided into the following three parts:
 
-Part I. The Front-End Practice
+Part I: The Front-End Practice
+---
 Part one broadly describes the practice of front-end engineering.
 
 Part II: Learning Front-End Development
+---
 Part two identifies self-directed and direct resources for learning to become a front-end developer.
 
 Part III: Front-End Development Tools
+---
 Part three briefly explains and identifies tools of the trade.
 
-Download a .pdf, .epub, or .mobi file from:
+***
 
-https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details
-Contribute content, suggestions, and fixes on github:
+**Read Online**:
 
-https://github.com/FrontendMasters/front-end-handbook-2018
+* [https://frontendmasters.com/books/front-end-handbook/2018/](https://frontendmasters.com/books/front-end-handbook/2018/)
+
+**Download a .pdf, .epub, or .mobi file from**:
+
+* [https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
+
+**Contribute content, suggestions, and fixes on github**:
+
+* [https://github.com/FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018)
+
+
+***
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
+
